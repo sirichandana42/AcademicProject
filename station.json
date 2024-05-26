@@ -1,0 +1,15 @@
+{
+    "status": "OK",
+    "results": [
+      {
+        "location": {
+          "lat": "16.543796",
+          "lng": "81.496048"
+        },
+        "name": "Bhimavaram police station",
+        "address": "Bhimavaram Ho, Bhimavaram - 534201 (Near RTO Office)",
+        "phone": "",
+        "distanceMeter": "826.49"
+      }
+    ]
+  }
