@@ -1,0 +1,13 @@
+https://www.bing.com/ck/a?!&&p=40b0e59a1f27adcaJmltdHM9MTcwMjUxMjAwMCZpZ3VpZD0xN2M3OTE4NS0wNGIyLTZjNGMtMDNmMy04MmRiMDUxZjZkODYmaW5zaWQ9NTIwMA&ptn=3&ver=2&hsh=3&fclid=17c79185-04b2-6c4c-03f3-82db051f6d86&psq=Doe%2c+J.+(2021).+Implementing+an+Email+Alert+System+for+Missing+Persons.+International+Journal+of+Communication+Technology%2c+42(1)%2c+78-94&u=a1aHR0cHM6Ly93d3cuaXJqZXQubmV0L2FyY2hpdmVzL1Y4L2kxMi9JUkpFVC1WOEkxMjg5LnBkZg&ntb=1  
+
+https://www.irjet.net/archives/V8/i12/IRJET-V8I1289.pdf
+
+S. D. Sarkar and A. Shenoy K.B., "Face Recognition using Artificial Neural Network and Feature Extraction," 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, India, 2020, pp. 417-422, doi: 10.1109/SPIN48934.2020.9071378.
+
+Chaukade, Abhinay. (2022). Finding And Matching the Lost Victim Using AI and ML. International Journal for Research in Applied Science and Engineering Technology. 10. 4468-4476. 10.22214/ijraset.2022.45652. 
+
+B. Vinavatani, M. R. Panna, P. H. Singha and G. J. W. Kathrine, "AI for Detection of Missing Person," 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC), Salem, India, 2022, pp. 66-73, doi: 10.1109/ICAAIC53929.2022.9792672.
+
+R. Annamalai, S. S and K. G. Sindhu, "Facial Matching and Reconstruction Techniques in Identification of Missing Person Using Deep Learning," 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON), Mysore, India, 2023, pp. 1-7, doi: 10.1109/INDISCON58499.2023.10270804.
+
+Y. Zhang, H. Wang, F. Xu and K. Jia, "A Deep Face Recognition Method Based on Model Fine-tuning and Principal Component Analysis," 2017 IEEE 7th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), Honolulu, HI, USA, 2017, pp. 141-146, doi: 10.1109/CYBER.2017.8446331.
